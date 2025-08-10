@@ -1,6 +1,6 @@
 Exploring Hindi Language with Bigram Models, Neural Networks, and GPT 🚀📜
 
-Over the past weeks, I’ve been working on a project focused on Hindi language modeling — and it’s been both technically challenging and unexpectedly fascinating!
+Over the past few days, I’ve been working on a project focused on Hindi language modeling — and it’s been both technically challenging and unexpectedly fascinating!
 
 I started with Wikipedia Hindi articles from Kaggle, cleaning the dataset so that it only contained pure Devanagari characters. From there, the journey unfolded in three main steps:
 
