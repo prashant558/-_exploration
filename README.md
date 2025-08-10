@@ -18,7 +18,7 @@ Finally, I upgraded the architecture to a GPT-style language model to generate f
 
 Language is full of hidden patterns — once you see them, it changes how you think about everyday communication.
 
-A model can pick up the basics of a language in hours with good compute power — something that takes us humans months or even years! (I’ve been learning German for over a year, but my model “learned” Hindi sentence structure in days!)
+A model can pick up the basics of a language in hours with good compute power — something that takes us humans months or even years! (I’ve been learning German for over a year, but my model can learn German sentence structure in days!)
 
 Even simple models like bigrams can uncover fascinating structure in a language, while more advanced architectures can create surprisingly human-like text.
 
